@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://codepen.io/bhallibhai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhallibhai" height="30" width="40" /></a>
+    <a href="https://codepen.io/bhallibhai" target="_blank" style="margin-right: 10px; margin-left: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhallibhai" height="30" width="40" /></a>
     <a href="https://dev.to/bhallibhai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhallibhai" height="30" width="40" /></a>
     <a href="https://twitter.com/bhalli_bhai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhalli_bhai" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/bhalli" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhalli" height="30" width="40" /></a>
@@ -54,6 +54,9 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
     </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a> 
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
@@ -125,9 +128,6 @@
         </a> 
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
             <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-            <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
         </a> 
         <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
             <img align="center" src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
