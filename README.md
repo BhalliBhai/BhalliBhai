@@ -11,7 +11,9 @@
   </a>
 </p>
 
-- 🌱 Currently mastering: **MERN Stack Development**
+<ul>
+    <li>🌱 Currently mastering: <strong>MERN Stack Development</strong></li>
+</ul>
 
 - 👯 Open to collaborate with: **Like-minded Developers | Project Managers**
 
