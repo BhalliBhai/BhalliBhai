@@ -71,12 +71,8 @@
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>  
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> 
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
-        <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-            <img align="center" src="https://reactnative.dev/img align="center"/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-        </a>  --> 
-        <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-            <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-        </a>  -->
+        <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img align="center" src="https://reactnative.dev/img align="center"/header_logo.svg" alt="reactnative" width="40" height="40"/></a>  --> 
+        <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>  -->
     </p>
 </p>
 
