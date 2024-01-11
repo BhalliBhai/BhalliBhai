@@ -19,6 +19,15 @@
 
 - 📫 Reach me at **bhallibhai69@gmail.com**
 
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate With **Like minded developers | Project managers**
+
+- 💬 Ask me about **Web Application Development**
+
+- 📫 How to reach me **bhallibhai69@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://codepen.io/bhallibhai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhallibhai" height="30" width="40" /></a>
