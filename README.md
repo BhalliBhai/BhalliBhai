@@ -11,15 +11,21 @@
   </a>
 </p>
 
-<ul>
-    <li>🌱 Currently mastering: <strong>MERN Stack Development</strong></li>
-</ul>
+- 🌱 Currently mastering: MERN Stack Development
+
+- 👯 Open to collaborate with: Like-minded Developers | Project Managers
+
+- 💬 Let's chat about: Web Application Development
+
+- 📫 Reach me at: bhallibhai69@gmail.com
+
+<!-- - 🌱 Currently mastering: **MERN Stack Development**
 
 - 👯 Open to collaborate with: **Like-minded Developers | Project Managers**
 
 - 💬 Let's chat about: **Web Application Development**
 
-- 📫 Reach me at: **bhallibhai69@gmail.com**
+- 📫 Reach me at: **bhallibhai69@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
