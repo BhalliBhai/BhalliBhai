@@ -12,17 +12,23 @@
 </p>
 
 - 🌱 Currently mastering **MERN Stack Development**
+
 - 👯 Open to collaborate with **Like-minded Developers | Project Managers**
+
 - 💬 Let's chat about **Web Application Development**
+
 - 📫 Reach me at **bhallibhai69@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://codepen.io/bhallibhai" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhallibhai" height="30" width="40" /></a>
-  <a href="https://dev.to/bhallibhai" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhallibhai" height="30" width="40" /></a>
-  <a href="https://twitter.com/bhalli_bhai" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhalli_bhai" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/bhalli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhalli" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/bhalli-bhai" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhalli-bhai" height="30" width="40" /></a>
+<a href="https://codepen.io/bhallibhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhallibhai" height="30" width="40" /></a>
+<a href="https://dev.to/bhallibhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhallibhai" height="30" width="40" /></a>
+<a href="https://twitter.com/bhalli_bhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhalli_bhai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhalli" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/bhalli-bhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhalli-bhai" height="30" width="40" /></a>
+<a href="https://codesandbox.com/bhallibhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bhallibhai" height="30" width="40" /></a>
+<a href="https://instagram.com/bhalli.bhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhalli.bhai" height="30" width="40" /></a>
+<a href="https://medium.com/@bhallibhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhallibhai" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
