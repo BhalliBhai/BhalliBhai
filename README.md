@@ -2,7 +2,7 @@
   <img src="https://github.com/BhalliBhai/BhalliBhai/blob/main/Linkedin%20Banner%20Main.jpg" alt="bhallibhai" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Bhalli B</h1>
+<h1 align="center">Hi there 👋, I'm Bhalli</h1>
 <h3 align="center">Passionate Software Engineer | Web Applications Developer | MERN Stack Enthusiast<h3>
 
 <p align="center">
