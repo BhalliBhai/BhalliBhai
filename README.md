@@ -108,7 +108,7 @@ I am always open to discussing new projects, high-end UI/UX collaborations, or A
 
 
 
-<h1 align="center">Hi there 👋, I'm Bhalli</h1>
+<!-- <h1 align="center">Hi there 👋, I'm Bhalli</h1>
 <h3 align="center">Passionate Software Engineer | Web Applications Developer | MERN Stack Enthusiast<h3>
 
 <p align="center">
@@ -127,7 +127,7 @@ I am always open to discussing new projects, high-end UI/UX collaborations, or A
 
 - 💬 Let's chat about: Web Application Development
 
-- 📫 Reach me at: bhallibhai69@gmail.com
+- 📫 Reach me at: bhallibhai69@gmail.com -->
 
 <!-- - 🌱 Currently mastering: **MERN Stack Development**
 
