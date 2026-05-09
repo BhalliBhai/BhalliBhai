@@ -16,7 +16,7 @@
 🚀 Executive Summary
 Experienced **Senior Software Project Manager** and **Full-Stack Engineer** with over 6 years of expertise in architecting scalable web applications. I specialize in taking ideas from zero to one through rapid **MVP Development** and building robust, production-grade systems using the **MERN stack** and **Next.js**.
 
-- 🛠️ **Founder & Lead:** Managing a high-performing team of 10+ developers to ship impactful digital products.
+- 🛠️ **Founder & Lead:** Managing a high-performing team of developers to ship impactful digital products.
 - 💡 **MVP Expert:** Certified specialist in Building Minimum Viable Products—focusing on lean development and rapid market entry.
 - 🏗️ **Architecture:** Deep expertise in Headless Commerce (Shopify Hydrogen/Oxygen), AI Integrations, and Agentic Workflows.
 - 🎮 **Passionate Creator:** Building the future of dev-gaming content at *Dev Gamer Forge*.
@@ -80,7 +80,28 @@ Experienced **Senior Software Project Manager** and **Full-Stack Engineer** with
   </tr>
 </table>
 
+---
 
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhallibhai&show_icons=true&theme=tokyonight&count_private=true" alt="Bhalli's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhallibhai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Collaborate
+I am always open to discussing new projects, high-end UI/UX collaborations, or Agentic AI workflows.
+
+- **Email:** [bhallibhai69@gmail.com](mailto:bhallibhai69@gmail.com)
+- **LinkedIn:** [linkedin.com/in/bhalli](https://linkedin.com/in/bhalli)
+- **Twitter:** [@bhalli_bhai](https://twitter.com/bhalli_bhai)
+
+<p align="center">
+  <a href="https://linkedin.com/in/bhalli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/bhalli_bhai" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/bhallibhai" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+</p>
 
 
 
