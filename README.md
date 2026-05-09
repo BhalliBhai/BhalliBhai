@@ -13,7 +13,7 @@
 
 ---
 
-🚀 Executive Summary
+🚀 Executive Summary <br/>
 Experienced **Senior Software Project Manager** and **Full-Stack Engineer** with over 6 years of expertise in architecting scalable web applications. I specialize in taking ideas from zero to one through rapid **MVP Development** and building robust, production-grade systems using the **MERN stack** and **Next.js**.
 
 - 🛠️ **Founder & Lead:** Managing a high-performing team of developers to ship impactful digital products.
