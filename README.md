@@ -3,6 +3,91 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Bhalli</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;MERN+|+Next.js+|+TypeScript+Expert;Strategic+Project+Manager;Certified+MVP+Specialist" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhallibhai&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="bhallibhai" />
+</p>
+
+---
+
+🚀 Executive Summary
+Experienced **Senior Software Project Manager** and **Full-Stack Engineer** with over 6 years of expertise in architecting scalable web applications. I specialize in taking ideas from zero to one through rapid **MVP Development** and building robust, production-grade systems using the **MERN stack** and **Next.js**.
+
+- 🛠️ **Founder & Lead:** Managing a high-performing team of 10+ developers to ship impactful digital products.
+- 💡 **MVP Expert:** Certified specialist in Building Minimum Viable Products—focusing on lean development and rapid market entry.
+- 🏗️ **Architecture:** Deep expertise in Headless Commerce (Shopify Hydrogen/Oxygen), AI Integrations, and Agentic Workflows.
+- 🎮 **Passionate Creator:** Building the future of dev-gaming content at *Dev Gamer Forge*.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+      <br />Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+      <br />Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS" />
+      <br />AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" width="40" height="40" alt="Shopify" />
+      <br />Shopify
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
+      <br />Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
+      <br />Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br />Python
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+<h1 align="center">Hi there 👋, I'm Bhalli</h1>
 <h3 align="center">Passionate Software Engineer | Web Applications Developer | MERN Stack Enthusiast<h3>
 
 <p align="center">
